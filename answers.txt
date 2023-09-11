@@ -2,3 +2,7 @@ What is the difference between a merge and a rebase?
 
 A merge keeps the history of your changes, and allows for changes from one branch to get safely merged into another branch through a merge commit. This maintains the history of both branches while keeping the context of the two.
 A rebase will take the beginning history of one branch, and attach it to the tip of another branches head. This creates a lineaar history, but doesn't maintain the history of the two branches as separate, but rather together.
+
+What is a remote repository?
+
+Versions of your repository/project that are stored and held on the Internet or network (rather than your local machine).
